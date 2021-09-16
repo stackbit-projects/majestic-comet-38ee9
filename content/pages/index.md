@@ -15,7 +15,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: none
-    background_image: /images/2021-09-16_15-51-19.png
+    background_image: /images/background.svg
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
