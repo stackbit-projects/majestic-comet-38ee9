@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Administre sus Datos con!
+    title: Administre sus Datos con tecnologia Blockchain!
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
