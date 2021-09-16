@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Administre sus Datos con tecnologia Blockchain!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Tenemos un equipo especializado
     actions:
       - label: Try for free
         url: /pricing
