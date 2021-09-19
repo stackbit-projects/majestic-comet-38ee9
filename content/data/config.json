@@ -8,7 +8,7 @@
     "base_font": "serif",
     "header": {
         "title": "Startup",
-        "logo": "images/logo.svg",
+        "logo": "/images/2021-09-19_17-42-14.png",
         "logo_alt": "Startup logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
