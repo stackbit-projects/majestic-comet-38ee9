@@ -23,7 +23,7 @@ sections:
     title: Featured On
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/2021-01-15_17-15-24.png
         image_alt: Logo 1
         image_align: center
       - image_alt: Logo 2
