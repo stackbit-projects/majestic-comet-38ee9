@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Featured On
+    title: Que puede hacer la tecnologia Blockchain?
     align: center
     grid_items:
       - image: /images/2021-01-15_17-15-24.png
