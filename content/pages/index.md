@@ -8,7 +8,7 @@ sections:
       - label: Try for free
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: /images/2021-09-19_17-26-22.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
