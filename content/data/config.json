@@ -37,7 +37,8 @@
                 "url": "/thank-you",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/MercowebBlockchainlogo-9f6c6aaa.jpg"
     },
     "footer": {
         "logo": "images/logo.svg",
