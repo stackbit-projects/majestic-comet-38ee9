@@ -41,7 +41,7 @@ sections:
     title: .
     features:
       - title: Nuestro enfoque en el uso de esta tecnologia
-        content: "**¡Creamos tu propio negocio sobre esta tecnologia! **\_esto\n ayuda a reducir el tiempo de ejecucion de tus transacciones en tu \nnegocio o emprendimeinto cryptodigital al proporcionarle la experiencia \nde de desarrollo y la integracion de nuevas tecnologias.\_\n\n![](/images/2021-01-15\\_17-25-09.png)\n"
+        content: "\\*\\*¡Creamos tu propio negocio sobre esta tecnologia! \\*\\*\_esto\nayuda a reducir el tiempo de ejecucion de tus transacciones en tu\nnegocio o emprendimeinto cryptodigital al proporcionarle la experiencia\nde de desarrollo y la integracion de nuevas tecnologias.\_\n\n"
         actions:
           - label: Learn More
             url: /thank-you
