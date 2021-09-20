@@ -38,7 +38,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Why Choose YourGoal?
+    title: .
     features:
       - title: Nuestro enfoque en el uso de esta tecnologia
         content: >-
