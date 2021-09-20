@@ -55,14 +55,15 @@ sections:
         media_width: sixty
       - title: 'Blockchain, mucho mas que Bitcoin.'
         content: >
-          ### Es mucho más que las fluctuaciones de los criptoactivos.Analistas
-          en la &#xA;temática prevén que a lo largo de esta década, plataformas
-          blockchain &#xA;integradas a otras tecnologías como la inteligencia
-          artificial, la &#xA;genómica, la energía distribuida y la robótica,
-          podrían ser la base de &#xA;estructuras de red globales de una escala,
-          eficiencia y complejidad &#xA;capaces de resolver algunos de los
-          grandes desafíos de la humanidad, &#xA;como la inclusión financiera y
-          la igualdad de oportunidades.&#xA;&#xA;
+          ###### Es mucho más que las fluctuaciones de los
+          criptoactivos.Analistas en la &#xA;temática prevén que a lo largo de
+          esta década, plataformas blockchain &#xA;integradas a otras
+          tecnologías como la inteligencia artificial, la &#xA;genómica, la
+          energía distribuida y la robótica, podrían ser la base de
+          &#xA;estructuras de red globales de una escala, eficiencia y
+          complejidad &#xA;capaces de resolver algunos de los grandes desafíos
+          de la humanidad, &#xA;como la inclusión financiera y la igualdad de
+          oportunidades.&#xA;&#xA;
         actions:
           - label: Learn More
             url: /thank-you
