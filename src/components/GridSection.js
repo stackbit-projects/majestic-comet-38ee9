@@ -51,7 +51,7 @@ export default class GridSection extends React.Component {
                         })}
                     >
                         {subtitle && <div className="section__subtitle">{subtitle}</div>}
-                        {title && <h2 className="section__title mt-0">{title}</h2>}
+                        {title && <h2 className="section__title mt-0">{title}</h3>}
                     </div>
                 )}
                 {!_.isEmpty(gridItems) && (
