@@ -88,8 +88,7 @@ sections:
         media_position: right
         media_width: sixty
         title: Tokeniza tu negocio o proyecto.
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
