@@ -28,7 +28,7 @@ sections:
         image_align: center
       - image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/2021-09-01_10-05-12-8b907cc5.png
         image_alt: Logo 3
         image_align: center
     grid_cols: three
