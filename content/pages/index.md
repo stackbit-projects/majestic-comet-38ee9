@@ -88,26 +88,6 @@ sections:
         media_position: right
         media_width: sixty
         title: Tokeniza tu negocio o proyecto.
-      - content: >
-          ##
-
-
-          Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        image: /images/2021-09-01_10-05-12.png
     feature_padding_vert: large
     align: center
     background_color: none
