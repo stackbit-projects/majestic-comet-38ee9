@@ -98,6 +98,7 @@ sections:
         media_position: left
         media_width: thirty-three
         title: Dapps aplicaciones descentralizadas.
+        subtitle: 'los '
     feature_padding_vert: small
     background_color: none
   - type: grid_section
