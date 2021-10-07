@@ -107,7 +107,7 @@ sections:
   - type: grid_section
     title: Tecnologias Usadas
     grid_items:
-      - title: What to Do
+      - title: Que hacemos
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
