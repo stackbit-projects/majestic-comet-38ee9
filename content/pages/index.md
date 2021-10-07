@@ -178,7 +178,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Listo para empezar?
-    content: Start achieving your goals today!
+    content: |
+      Animate a una nueva experiencia!!!
     actions:
       - label: Try for free
         url: /thank-you
