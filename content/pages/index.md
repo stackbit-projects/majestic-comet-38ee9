@@ -197,7 +197,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to get started?
+    title: Listo para empezar?
     content: Start achieving your goals today!
     actions:
       - label: Try for free
