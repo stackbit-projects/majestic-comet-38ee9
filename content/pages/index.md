@@ -75,9 +75,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+      - content: "Los NFT, en su traducción del inglés, son los tokens no fungibles: activos digitales que no sirven como moneda transaccional, pero tienen su valor y su propia dinámica de cotización dentro del mercado en el que operan.\nPara esto mismo ofrecemos la asesoría \_ en el manejo de las diferentes plataformas que manejan estos activos no fungibles , hasta la realización de una plataforma integral de comercialización de NFT\_ y llegado el caso crear su propio TOKEN FUNGIBLE .\n"
         actions:
           - label: Learn More
             url: /thank-you
