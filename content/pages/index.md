@@ -107,6 +107,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/2021-03-15_14-11-29.png
     feature_padding_vert: large
     align: center
     background_color: none
