@@ -93,8 +93,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: /images/DaapsDEV.png
+      - image: /images/DaapsDEV.png
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
