@@ -89,7 +89,7 @@ sections:
         media_width: sixty
         title: Tokeniza tu negocio o proyecto.
       - content: >
-          ## ![](/images/2020-04-14\_22-23-30.png)
+          ##
 
 
           Lorem ipsum
