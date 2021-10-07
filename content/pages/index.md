@@ -98,7 +98,7 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
-        title: 'Dapps '
+        title: Dapps aplicaciones descentralizadas.
     feature_padding_vert: small
     background_color: none
   - type: grid_section
