@@ -105,7 +105,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: grid_section
-    title: How it works
+    title: Tecnologias Usadas
     grid_items:
       - title: What to Do
         title_align: left
