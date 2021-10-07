@@ -149,7 +149,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         content_align: left
-        image: images/icon-4.svg
+        image: /images/2021-09-11_21-03-53.png
         image_alt: Section item 4 icon
         image_position: top
         image_align: left
