@@ -98,7 +98,10 @@ sections:
         media_position: left
         media_width: thirty-three
         title: Dapps aplicaciones descentralizadas.
-        subtitle: 'Los beneficios basados en esta tecnologia,'
+        subtitle: >-
+          Los beneficios basados en esta tecnologia, integran facilmente las
+          criptomonedas a su operacion, mayor seguridad y tiempo de respuesta
+          mayor a una aplicacion convencional.
     feature_padding_vert: small
     background_color: none
   - type: grid_section
