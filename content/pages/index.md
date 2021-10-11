@@ -135,7 +135,10 @@ sections:
         content: >
           En estos momentos estamos trabajando en un proyecto en esta
           tecnologia, un cliente del exterior planteo la inquietud y tomamos el
-          desafio, nuestro grupo . 
+          desafio, nuestro grupo .
+
+
+          ![](/images/2021-08-26\_11-35-08.png)
         content_align: left
         image: /images/2021-08-26_11-27-16.png
         image_alt: Section item 3 icon
