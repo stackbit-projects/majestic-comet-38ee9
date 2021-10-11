@@ -144,12 +144,19 @@ sections:
         image_has_padding: true
       - title: Continuamente reinventadonos
         title_align: left
-        content: >
+        content: >+
           Estamos en continua capacitacion y desarrollo de nuevos productos
           basados en esta tecnologia
 
 
           ![](/images/2021-05-06\_12-05-12.png)
+
+
+          Utilizamos estas plataformas , como parte de nuestra capacitacion. 
+
+
+          ![](/images/2021-10-11\_15-53-10.png)
+
         content_align: left
         image: /images/2021-09-11_21-03-53.png
         image_alt: Section item 4 icon
