@@ -144,10 +144,9 @@ sections:
         image_has_padding: true
       - title: Continuamente reinventadonos
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Estamos en continua capacitacion y desarrollo de nuevos productos
+          basados en esta tecnologia
         content_align: left
         image: /images/2021-09-11_21-03-53.png
         image_alt: Section item 4 icon
