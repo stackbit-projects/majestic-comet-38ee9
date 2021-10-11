@@ -3,9 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Muchas Gracias!
-    subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+    subtitle: 'No solo desarrollamos soluciones digitales, las creamos .'
     actions:
       - label: Back to homepage
         url: /
