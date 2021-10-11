@@ -2,9 +2,10 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Thank You!
+    title: Muchas Gracias!
     subtitle: >-
-      Thank you for testing this template. We hope you like it. Have a great day!
+      Thank you for testing this template. We hope you like it. Have a great
+      day!
     actions:
       - label: Back to homepage
         url: /
