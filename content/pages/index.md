@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: Administre sus Datos con tecnologia Blockchain!
     subtitle: Tenemos un equipo especializado
-    actions:
-      - label: Try for free
-        url: /pricing
-        style: primary
+    actions: []
     image: /images/2021-09-19_17-26-22.png
     image_alt: Hero section placeholder image
     media_position: bottom
