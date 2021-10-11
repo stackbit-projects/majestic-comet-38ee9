@@ -5,7 +5,7 @@ sections:
     title: Muchas Gracias!
     subtitle: 'No solo desarrollamos soluciones digitales, las creamos .'
     actions:
-      - label: Back to homepage
+      - label: Volver al inicio
         url: /
         style: primary
     align: center
