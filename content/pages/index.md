@@ -132,10 +132,10 @@ sections:
         image_has_padding: true
       - title: Blockchain capa 2
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          En estos momentos estamos trabajando en un proyecto en esta
+          tecnologia, un cliente del exterior planteo la inquietud y tomamos el
+          desafio, nuestro grupo . 
         content_align: left
         image: /images/2021-08-26_11-27-16.png
         image_alt: Section item 3 icon
