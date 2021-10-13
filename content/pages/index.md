@@ -25,7 +25,7 @@ sections:
         image_align: center
       - title_align: left
         content: >
-          ## ![](/images/RonninInternational.png)Lorem ipsum
+          ## Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
