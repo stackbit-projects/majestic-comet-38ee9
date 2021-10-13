@@ -24,17 +24,16 @@ sections:
         image_alt: Logo 1
         image_align: center
       - title_align: left
-        content: >
-          ## Lorem ipsum
+        content: >+
+          ## Empeza ahora
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   La nueva tecnología blockchain facilita las transacciones de igual
+          a igual
+               sin ningún intermediario, como un banco o un organismo de gobierno. Manteniendo
+               la información del usuario anónima, la cadena de bloques valida y 
+              mantiene un registro público permanente de todas las transacciones.
 
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
         content_align: left
         actions: []
         actions_align: left
