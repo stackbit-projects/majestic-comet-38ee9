@@ -149,13 +149,7 @@ sections:
         image_has_padding: true
       - title: Blockchain capa 2
         title_align: left
-        content: >
-          En estos momentos estamos trabajando en un proyecto en esta
-          tecnologia, un cliente del exterior planteo la inquietud y tomamos el
-          desafio, nuestro grupo .
-
-
-          ![](/images/2021-08-26\_11-35-08.png)
+        content: "En estos momentos estamos trabajando en un proyecto en esta tecnologia, un cliente del exterior planteo la inquietud y tomamos el desafio, nuestro grupo .\n\nEsta tecnologia Polygon (anteriormente\_Matic\_Network) es una solución de escalado de Capa 2 respaldada por Binance y Coinbase. El proyecto busca estimular la adopción masiva de criptomonedas resolviendo los problemas de escalabilidad en muchas cadenas de bloques\n\nLa última noticia más relevante acerca de la blockchain Polygon, es el gran hito alcanzado el día 21 de SEptiembre. Logró superar las 351.000 direcciones activas, lo que significa que superó por primera vez a Ethereum con sus 326.000.\_\n\n\n\n\n\n![](/images/2021-08-26\\_11-35-08.png)\n"
         content_align: left
         image: /images/2021-08-26_11-27-16.png
         image_alt: Section item 3 icon
