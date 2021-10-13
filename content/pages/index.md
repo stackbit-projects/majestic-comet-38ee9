@@ -210,7 +210,7 @@ sections:
     content: |
       Animate a una nueva experiencia!!!
     actions:
-      - label: Try for free
+      - label: Contactanos
         url: /thank-you
         style: primary
     actions_width: fourty
