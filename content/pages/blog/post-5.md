@@ -16,7 +16,7 @@ excerpt: >-
   affecit, quanto.
 thumb_image: images/post-5.jpg
 thumb_image_alt: Post 5 placeholder image
-image: images/post-5.jpg
+image: /images/BlockchainAcademy.png
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
