@@ -126,10 +126,11 @@ sections:
     grid_items:
       - title: Que hacemos
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: >
+          En estos ultimos 4 años estuvimos capacitandonos, en esta tecnologia y
+          dando charlas en varios lugares de Buenos Aires, evangelizando en esta
+          tecnologia, ahora desde hace casi 2 años , iniciamos algunos proyectos
+          , y fuimos consultores estrellas de oraganismos publicos y privados. 
         content_align: left
         image: /images/2021-03-15_14-11-29.png
         image_alt: Section item 1 icon
