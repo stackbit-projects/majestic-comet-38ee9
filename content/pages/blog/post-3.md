@@ -5,8 +5,7 @@ subtitle: >-
   equidem satis, inquit, me dixisse.
 date: '2020-12-28'
 author: content/data/team/brandon-guidelines.yaml
-categories:
-  - content/data/categories/use-cases.yaml
+categories: []
 tags:
   - content/data/tags/productivity.yaml
 excerpt: >-
