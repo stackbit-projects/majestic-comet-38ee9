@@ -5,8 +5,7 @@ subtitle: >-
   senectus.
 date: '2021-02-10'
 author: content/data/team/brandon-guidelines.yaml
-categories:
-  - content/data/categories/tips.yaml
+categories: []
 tags:
   - content/data/tags/productivity.yaml
 excerpt: >-
