@@ -7,7 +7,6 @@ date: '2021-02-10'
 author: content/data/team/brandon-guidelines.yaml
 categories:
   - content/data/categories/tips.yaml
-  - content/data/categories/category-zw8ewdw1w.json
 tags:
   - content/data/tags/productivity.yaml
 excerpt: >-
