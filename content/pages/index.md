@@ -139,9 +139,11 @@ sections:
         image_has_padding: true
       - title: Nuestro tecnologia madre
         title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+        content: >
+          Blockchain es la WEB 3.0 , se podria decir dondo la clave es la
+          seguridad, descentralizacion, y la encriptacion de datos,  luegos
+          sumamos logica , para salir meramente del mundo de las transacciones
+          bancarias, .
         content_align: left
         image: /images/Blockchain.png
         image_alt: Section item 2 icon
