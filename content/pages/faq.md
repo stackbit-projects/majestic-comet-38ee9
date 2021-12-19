@@ -33,10 +33,10 @@ sections:
           que regula el proceso llegando al punto de devolver el dinero a sus
           aportantes si el proyecto no se concreta.
       - title: Que es lo ultimo que se esta viendo ?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          Hoy se escucha hablar de NFT , Metaverso , Blockchain capa 2, 
+          Inteligencia artificial unida a la blockchain , las primeras dos ya
+          estan en pleno desarrollo .
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
