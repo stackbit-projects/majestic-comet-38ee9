@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Desde 2017 juntamos voluntades para crear esta oraganizacion para generar soluciones disrruptivas para encarar soluciones productivas y financieras. Todos los integrantes y la gente que se acerca son apasionados de esta tecnologia y otras  
+Desde 2017 juntamos voluntades para crear esta oraganizacion para generar soluciones disrruptivas para encarar soluciones productivas y financieras. Todos los integrantes y la gente que se acerca son apasionados de esta tecnologia y otras
 
 ![](/images/BlockchainLABStaff_photos_v2\_x2\_toned.jpg)
 
@@ -46,4 +46,4 @@ Ahora encontramos un lugar donde una vez por semana hacemos pequeñas consultori
 
 ![](/images/team-2.jpg)
 
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.![](/images/2021-10-30\_12-29-09.png)![](/images/BlockchainLABStaff_photos_v2\_x2\_toned.jpg)
+Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
