@@ -15,10 +15,10 @@ sections:
           a desarrollar con esta tecnologia y una buena asesoria externa y que
           este representada por un pequeño equipo.
       - title: que me brinda esta tecnologia?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Te brinda seguridad en manejo de datos, es totalmente descentralizada
+          e inmutable. Y en un futuro muy cercano podras creqar una organizacion
+          DAO  - Oragnizacion Autonoma Descentralizada.
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
