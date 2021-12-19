@@ -37,11 +37,6 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
