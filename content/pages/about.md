@@ -28,17 +28,17 @@ seo:
       relativeUrl: true
 layout: page
 ---
-We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
+Desde 2017 juntamos voluntades para crear esta oraganizacion para generar soluciones disrruptivas para encarar soluciones productivas y financieras. Todos los integrantes y la gente que se acerca son apasionados de esta tecnologia y otras  
 
 ![](/images/BlockchainLABStaff_photos_v2\_x2\_toned.jpg)
 
-## Work Life Balance
+## Evangelizando
 
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
+Aprovechamos el parate de la pandemia para promocionar esta tecnologia , en diferentes grupos digitales y algunas Universidades .
 
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
+Ahora encontramos un lugar donde una vez por semana hacemos pequeñas consultorias , y se han acercado no solo gente del mundo emprearial de tecnologia y desarrollo, sino tambien musicos y profesionales de artes plasticas que desean promocionar sus obras en la red de blockchain.
 
-With App Land, we strive to make it clear and easy to follow a healthy routine of work effectiveness, collaboration, and also family time and social events.
+>
 
 ## Careers
 
