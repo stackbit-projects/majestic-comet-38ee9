@@ -11,7 +11,7 @@ sections:
     grid_items:
       - title: que debo tener para empezar a usar esta tecnologia?
         content: >
-          LO primero es tener bien claro la idea operativa de tu negocio que vas
+          Lo primero es tener bien claro la idea operativa de tu negocio que vas
           a desarrollar con esta tecnologia y una buena asesoria externa y que
           este representada por un pequeño equipo.
       - title: Sagittis vitae et leo duis ut diam?
