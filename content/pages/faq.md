@@ -20,12 +20,12 @@ sections:
           e inmutable. Y en un futuro muy cercano podras creqar una organizacion
           DAO  - Oragnizacion Autonoma Descentralizada.
       - title: Y la seguridad como es?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          Cada dato que envies a la blockchain esta precedido por una clave
+          criptografica la cual es practicamente imposible de hackear, ademas
+          cada tipo de blockchain tiene su protocolo y su actualizacion
+          correspondiente para hacer mas segura e inmutable la fiabilidad de tus
+          datos.
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
