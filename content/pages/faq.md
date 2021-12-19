@@ -10,10 +10,10 @@ sections:
   - type: grid_section
     grid_items:
       - title: que debo tener para empezar a usar esta tecnologia?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          LO primero es tener bien claro la idea operativa de tu negocio que vas
+          a desarrollar con esta tecnologia y una buena asesoria externa y que
+          este representada por un pequeño equipo.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
