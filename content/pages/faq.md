@@ -14,7 +14,7 @@ sections:
           Lo primero es tener bien claro la idea operativa de tu negocio que vas
           a desarrollar con esta tecnologia y una buena asesoria externa y que
           este representada por un pequeño equipo.
-      - title: que me brinda esta tecnologia?
+      - title: Que me brinda esta tecnologia?
         content: >
           Te brinda seguridad en manejo de datos, es totalmente descentralizada
           e inmutable. Y en un futuro muy cercano podras creqar una organizacion
