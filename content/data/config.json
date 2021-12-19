@@ -97,7 +97,7 @@
             },
             {
                 "label": "YouTube",
-                "url": "https://www.youtube.com/",
+                "url": "https://studio.youtube.com/channel/UCk-nUN0m6OVDca5tui644wQ/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D",
                 "style": "link",
                 "has_icon": true,
                 "icon": "youtube",
