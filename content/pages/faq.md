@@ -32,7 +32,7 @@ sections:
           fondos para proyectos de todo tipo  a tada a un contrato inteligente
           que regula el proceso llegando al punto de devolver el dinero a sus
           aportantes si el proyecto no se concreta.
-      - title: '?'
+      - title: Que es lo ultimo que se esta viendo ?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
