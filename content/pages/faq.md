@@ -14,7 +14,7 @@ sections:
           Lo primero es tener bien claro la idea operativa de tu negocio que vas
           a desarrollar con esta tecnologia y una buena asesoria externa y que
           este representada por un pequeño equipo.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: que me brinda esta tecnologia?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
