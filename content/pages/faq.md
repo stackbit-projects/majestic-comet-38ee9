@@ -27,11 +27,11 @@ sections:
           correspondiente para hacer mas segura e inmutable la fiabilidad de tus
           datos.
       - title: Que alcance tiene esta tecnologia?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          Hoy ya se puede ver esta tecnologia como herramienta pra recaudar
+          fondos para proyectos de todo tipo  a tada a un contrato inteligente
+          que regula el proceso llegando al punto de devolver el dinero a sus
+          aportantes si el proyecto no se concreta.
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
