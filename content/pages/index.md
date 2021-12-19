@@ -208,7 +208,7 @@ sections:
       Animate a una nueva experiencia!!!
     actions:
       - label: Contactanos
-        url: /thank-you
+        url: 'https://zfrmz.com/MIQZDTC2ZFyAP6Vsj0sC'
         style: primary
     actions_width: fourty
     align: center
