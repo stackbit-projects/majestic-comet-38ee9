@@ -26,7 +26,7 @@ sections:
           cada tipo de blockchain tiene su protocolo y su actualizacion
           correspondiente para hacer mas segura e inmutable la fiabilidad de tus
           datos.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: Que alcance tiene esta tecnologia?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
