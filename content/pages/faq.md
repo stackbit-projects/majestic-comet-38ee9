@@ -19,7 +19,7 @@ sections:
           Te brinda seguridad en manejo de datos, es totalmente descentralizada
           e inmutable. Y en un futuro muy cercano podras creqar una organizacion
           DAO  - Oragnizacion Autonoma Descentralizada.
-      - title: Viverra nam libero justo laoreet sit?
+      - title: Y la seguridad como es?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
