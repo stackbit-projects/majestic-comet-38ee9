@@ -9,7 +9,7 @@ sections:
     padding_bottom: none
   - type: grid_section
     grid_items:
-      - title: que debo tener para empezar a usar esta tecnologia?
+      - title: Que debo tener para empezar a usar esta tecnologia?
         content: >
           Lo primero es tener bien claro la idea operativa de tu negocio que vas
           a desarrollar con esta tecnologia y una buena asesoria externa y que
